@@ -1,7 +1,7 @@
 ### Olá! Sou Sandro Vieira
 - Hoje focado em Power BI
 - Estudando Pentaho para tratamentos de dados automatizados
-- Conhecinemtos em SQL Server
+- Conhecimentos em SQL Server
 - Conhecimentos em Oracle
 - Conhecimentos em Postgres
 
